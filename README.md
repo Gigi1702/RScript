@@ -5,7 +5,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/Gigi1702/binder-rep/py37_r353
+https://mybinder.org/v2/gh/Gigi1702/Rscript/HEAD
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
